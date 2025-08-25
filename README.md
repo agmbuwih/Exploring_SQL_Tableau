@@ -1,1 +1,1 @@
-# Exploring_SQL_-_Tableau
+# Exploring_SQL_Tableau
